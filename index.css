@@ -1,0 +1,123 @@
+header{
+    background-color: black;
+    color: goldenrod;
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header a{
+    color:brown;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: start;
+
+}
+.logo img{
+    border-radius: 300px;
+
+}
+
+.nav{
+    background-image: url(./flg.jfif);
+    height: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+body{
+    background-color: peru;
+}
+.fieldset1{
+    background-color: goldenrod;
+    color: wheat;
+}
+fieldset{
+    background-color: black;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+}
+h2{
+    color: wheat;
+}
+.left{
+
+    width: 100%;
+    height: 100%;
+    color: chocolate;
+}
+.left a{
+    color:olivedrab;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.mid{
+    padding: 30px;
+    align-items: start;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+.footer1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+footer{
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+}
+.log{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.B3{
+    background-color:aqua;
+}
+.prima{
+}
+.books{
+    background-image: url(./IMG.jfif);
+    
+    background-repeat:no-repeat;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.fieldset5{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    height:70%;
+    color:brown;
+    background-color:rgb(59, 114, 141) ;
+    font-size: large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.fieldset5 a{
+    display: flex;
+    flex-direction: row;
+    color: rgb(31, 2, 67);
+    text-decoration: none;
+    font-size: large;
+}
+.o-level{
+    display: flex;
+    flex-direction: column;
+    background-image: url(./flg.jfif);
+
+
+}
