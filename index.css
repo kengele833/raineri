@@ -91,6 +91,7 @@ footer{
     background-image: url(./IMG.jfif);
     
     background-repeat:no-repeat;
+    background-size:cover;
     display: flex;
     flex-direction: row;
     align-items: center;
